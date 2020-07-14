@@ -1,2 +1,2 @@
 # invie-github
-Practica GitHub
+Practica GitHub Ejercicios
